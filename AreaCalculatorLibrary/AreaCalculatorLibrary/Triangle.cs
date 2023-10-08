@@ -70,6 +70,8 @@ namespace AreaCalculatorLibrary
             // TestForGitHubDesktop
             // SecondTestForGitHubDestop
             // ThirdTestForGitHubDesktop
+            // FourthTestForGitHubDesktop
+            // FifthTestForGitHubDesktop
             FirstSide = firstSide;
             SecondSide = secondSide;
             ThirdSide = thirdSide;
