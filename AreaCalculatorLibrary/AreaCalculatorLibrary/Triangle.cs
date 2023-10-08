@@ -68,6 +68,7 @@ namespace AreaCalculatorLibrary
         public Triangle(double firstSide, double secondSide, double thirdSide)
         {
             // TestForGitHubDesktop
+            // SecondTestForGitHubDestop
             // ThirdTestForGitHubDesktop
             FirstSide = firstSide;
             SecondSide = secondSide;
